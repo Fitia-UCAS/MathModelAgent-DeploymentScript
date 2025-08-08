@@ -1,4 +1,4 @@
-# [MathModelAgent](https://github.com/jihe520/MathModelAgent) 自动部署脚本
+# [MathModelAgent](https://github.com/jihe520/MathModelAgent) 部署脚本
 
 本项目提供多种自动部署脚本，方便用户快速部署 MathModelAgent。支持的部署方式包括：
 
